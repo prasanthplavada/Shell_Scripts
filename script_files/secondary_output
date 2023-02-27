@@ -1,0 +1,4 @@
+Filesystem Type Size Used Avail Use% Mounted on
+/dev/sr0 iso9660 100G 90G 10G 90% /media/james/vBox_GAs_6.1.18
+/dev/sr1 iso9660 10G 5G 5G 50% /media/james/vBox_GAs_6.1.18
+/dev/sr2 iso9660 5G 1G 4G 80% /media/james/vBox_GAs_6.1.18
